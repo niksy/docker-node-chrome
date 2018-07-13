@@ -1,4 +1,4 @@
-FROM node:4
+FROM node:8
 
 MAINTAINER Ivan Nikolić <niksy5@gmail.com>
 
